@@ -1,0 +1,38 @@
+.outer {
+    position:absolute;
+    top:100px;
+    left:350px;
+}
+
+.table1 {
+    position:absolute;
+    width:450px;
+    padding-top:10px;
+}
+
+.table2 {
+    position:relative;
+    left:600px;
+    top: 56px;
+    width:325px;
+    padding-left:100px;
+}
+
+.table1Shell{
+    height:500px;
+}
+
+.table2Shell{
+    height: 450px;
+    overflow-y:auto;
+}
+
+.button {
+    position:relative;
+    top: 55px;
+    text-align: center;
+}
+
+.alerts{
+    padding: 5%;
+}
